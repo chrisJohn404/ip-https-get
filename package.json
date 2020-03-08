@@ -1,6 +1,6 @@
 {
   "name": "ip-https-get",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/ip-https-get.js",
   "directories": {
